@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Orejarena</h1>
 <h3 align="center">An explorer curious for truths and solutions, who found in his journey through knowledge, a sense of life and a motive for constant self-improvement.</h3>
-
+<br>
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Typescript and Next**
