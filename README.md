@@ -18,4 +18,4 @@
 
 <hr/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula" alt="jmoc3" width="500" /><hr><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&layout=compact&theme=dracula" width="300" alt="jmoc3" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula" alt="jmoc3" width="500" /><hr><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&layout=compact&theme=dracula" width="300" alt="jmoc3" /></p>
