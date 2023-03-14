@@ -18,5 +18,5 @@
 
 <hr/>
 
-<p style="display:flex;justify-content:space-beetwen"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmoc3&theme=dracula&background=000000" width="500" alt="jmoc3"/><span>     </span><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula" alt="jmoc3" width="500" /></p>
+<p style="display:flex;justify-content:space-beetwen"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmoc3&theme=dracula&background=000000" width="500" alt="jmoc3"/><span>     </span><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula" alt="jmoc3" width="450" /></p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&layout=compact&theme=dracula" alt="jmoc3" /></p>
