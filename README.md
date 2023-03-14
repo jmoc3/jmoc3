@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmoc3&theme=dark&background=000000" alt="jmoc3"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3" alt="jmoc3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula" alt="jmoc3" /></p>
