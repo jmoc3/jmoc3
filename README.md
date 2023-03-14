@@ -18,6 +18,6 @@
 
 <hr/>
 
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoc3)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jmoc3" alt="typescript" width="40" height="40"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&locale=en" alt="jmoc3" /></p>
