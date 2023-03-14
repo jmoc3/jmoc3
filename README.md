@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Typescript and Next**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 💬 Ask me about **Rubik's cubes, Physics and League of legend**
 
