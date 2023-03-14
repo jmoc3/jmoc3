@@ -18,6 +18,6 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmoc3&show_icons=true&locale=en&layout=compact" alt="jmoc3" /></p>
+<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmoc3)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&locale=en" alt="jmoc3" /></p>
