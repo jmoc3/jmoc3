@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript and Next**
 
-- 💬 Ask me about **Javascript, Node, Express, Mysql, React**
+- 💬 Ask me about **Rubik's cubes, Physics and League of legend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
