@@ -19,4 +19,11 @@
 
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula" alt="jmoc3" width="500" /><hr><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&layout=compact&theme=dracula" width="300" alt="jmoc3" /></p>
+<div align="center">
+<a href="https://github.com/SergioO21">
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula&hide_border=true&hide_title=true"/>
+</a>
+<a href="https://github.com/SergioO21">
+  <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc&layout=compact&theme=dracula&hide_border=true&hide_title=true&langs_count=8"/>
+</a>
+</div>
