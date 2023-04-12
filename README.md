@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript and React**
 
-- 💬 Ask me about **Rubik's cubes, Physics and League of legend**
+- 💬 Ask me about **Rubik's cubes, Physics and Naruto**
 
 
 <hr>
