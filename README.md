@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Typescript and React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Rubik's cubes, Physics and Naruto**
 
