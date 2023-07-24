@@ -13,7 +13,6 @@
 - 🤓 I’m currently interested in **Becoming IA Developer**
 
 - 💬 Ask me about **Physics and Naruto**
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
