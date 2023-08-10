@@ -23,11 +23,11 @@
 
 <div align="center">
 <a href="https://github.com/jmoc3">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&hide_progress=truek&theme=dracula"/>
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&hide_progress=true&theme=dracula"/>
 </a>  
 
 <a href="https://github.com/jmoc3">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=radical"/>
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=dracula"/>
 </a>
 
 </div>
