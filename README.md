@@ -23,7 +23,7 @@
 
 <div align="center">
 <a href="https://github.com/jmoc3">
-  <img align="center" height="200px" widht="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&hide_progress=true&theme=radical"/>
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&hide_progress=true&theme=radical"/>
 </a>  
 
 <a href="https://github.com/jmoc3">
