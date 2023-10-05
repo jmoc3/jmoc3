@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jose-miguel-orejarena-correa-5b5b6a23a/" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="jose miguel orejarena correa" height="30" width="40" /></a>
 </p>
-<h3 align="center">An explorer curious for truths and solutions, who found in his journey through knowledge, a sense of life and a motive for constant self-improvement.</h3>
+<h3 align="center">An explorer curious for truths and solutions, who found in his journey through knowledge, a sense of life and a motive for constant self-improvement</h3>
 <hr/>
 
 
