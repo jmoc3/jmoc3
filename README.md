@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 🤓 I’m currently interested in **Becoming IA Developer**
 
