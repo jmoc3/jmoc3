@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Fronted Development**
 
-- 🤓 I’m currently interested in **Becoming IA Developer**
+- 🤓 I’m currently interested in **Fronted developer of any page implementing 3D interactive objects**
 
 - 💬 Ask me about **Physics and Naruto**
 
