@@ -16,7 +16,7 @@
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
-<p align="center " style="display:flex;gap:2rem">
+<p align="center " >
   <a href="https://nextjs.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="Nextjs" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="60" height="40"/></a>
