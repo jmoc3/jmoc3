@@ -31,13 +31,4 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></p>&nbsp;&nbsp;
 <hr/>
 
-<div align="center">
-<a href="https://github.com/jmoc3">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&hide_progress=true&theme=radical"/>
-</a>  
 
-<a href="https://github.com/jmoc3">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=radical"/>
-</a>
-
-</div>
