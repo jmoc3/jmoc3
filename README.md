@@ -12,7 +12,7 @@
 
 - 🤓 I’m currently interested in **Data structures and algorithms**
 
-- 💬 Ask me about **Naruto and steven universe**
+- 💬 Ask me about **Naruto and Steven Universe**
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
