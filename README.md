@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Fronted Development**
+- 🌱 I’m currently learning about **Social Life**
 
-- 🤓 I’m currently interested in **Fronted developer of any page implementing 3D interactive objects**
+- 🤓 I’m currently interested in **Data structures and algorithms**
 
-- 💬 Ask me about **Physics and Naruto**
+- 💬 Ask me about **Naruto and steven universe**
 
 <hr>
 <h3 align="center">Languages and Tools</h3>
