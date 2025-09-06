@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning about **Social Life**
+- 🌱 I’m currently learning about **Go**
 
 - 🤓 I’m currently interested in **Data structures and algorithms**
 
