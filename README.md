@@ -1,43 +1,64 @@
-<h1 align="center">Hi 👋, I'm Jose Orejarena</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/jose-miguel-orejarena-correa-5b5b6a23a/" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="jose miguel orejarena correa" height="30" width="40" /></a>
-</p>
-<h3 align="center">An explorer curious for truths and solutions, who found in his journey through knowledge, a sense of life and a motive for constant self-improvement</h3>
-<hr/>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-
-- 🔭 I’m currently working on **Myself**
-
-- 🌱 I’m currently learning about **Go**
-
-- 🤓 I’m currently interested in **Data structures and algorithms**
-
-- 💬 Ask me about **Naruto and Steven Universe**
-
-<hr>
-<h3 align="center">Languages and Tools</h3>
-<p align="center " >
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/200px-Laravel.svg.png" alt="laravel" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" alt="postgres" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/?hl=es_419" target="_blank"><img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="GCP" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></p>&nbsp;&nbsp;
-<hr/>
-
+###
 
 <div align="center">
-<a href="https://github.com/jmoc3">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmoc3&hide_progress=true&theme=radical"/>
-</a>  
-
-<a href="https://github.com/jmoc3">
-  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=jmoc3&show_icons=true&theme=radical"/>
-</a>
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=F50087&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
+
+###
+
+<h1 align="center">Hi 👋, I'm Jose Orejarena</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working on <b>Myself</b><br>- 📚 I'm currently learning <b>Go</b><br>- ⚡ In my free time I usualy go for a run or hang out with my friends</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/3840px-Laravel.svg.png" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452130/vue.svg" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/redis.png" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmongodb_original_wordmark_logo_icon_146425.png&id=146425&pack_or_individual=pack" height="40" alt="mongo logo"  />
+  <img width="12" />
+  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmysql_original_wordmark_logo_icon_146417.png&id=146417&pack_or_individual=pack" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png?_=20080116191800" height="40" alt="postgres logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jmoc3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
